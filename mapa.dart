@@ -19,4 +19,8 @@ void main() {
 
   print(codigo.containsKey(11));
   print(codigo.containsValue("Jardim Alegre"));
+
+  codigo.forEach((chave, valor) {
+    print("Chave: $chave Valor: $valor");
+  });
 }

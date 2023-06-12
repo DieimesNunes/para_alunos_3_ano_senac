@@ -1,6 +1,0 @@
-package com.example.app_banheiro_aluno
-
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity: FlutterActivity() {
-}
