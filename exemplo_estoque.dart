@@ -24,6 +24,8 @@ class Produto {
   }
 }
 
+class dieimes {}
+
 void main() {
   Produto produto1 = Produto("Celular", 10, 1500.00);
   produto1.adicionarEstoque(5);
